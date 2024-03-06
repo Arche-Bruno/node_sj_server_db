@@ -1,0 +1,89 @@
+{
+  "teachers": [
+    {
+      "name": "Bruno",
+      "lastName": "Arche",
+      "materials": [
+        {
+          "name": "Node.js from scratch"
+        },
+        {
+          "name": "React.js from scratch"
+        },
+        {
+          "name": "Javascript from scratch"
+        }
+      ],
+      "id": "b158"
+    },
+    {
+      "id": "8399",
+      "name": "Leticia",
+      "lastName": "Perez",
+      "materials": [
+        {
+          "name": "Biology from scratch"
+        },
+        {
+          "name": "Math from scratch"
+        },
+        {
+          "name": "physical from scratch"
+        },
+        {
+          "name": "religion from scratch"
+        }
+      ]
+    },
+    {
+      "id": "4009",
+      "name": "Ricardo",
+      "lastName": "Arche",
+      "materials": [
+        {
+          "name": "Node.js from scratch"
+        },
+        {
+          "name": "React.js from scratch"
+        },
+        {
+          "name": "biology from scratch"
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "name": "Alfonsina",
+      "lastName": "storni",
+      "average": 18,
+      "id": "ec4c"
+    },
+    {
+      "id": "5554",
+      "name": "George",
+      "lastName": "Orwell",
+      "average": 20
+    }
+  ],
+  "courses": [
+    {
+      "name": "Node.js from scratch",
+      "duration": 5,
+      "difficulty": "intermediate",
+      "id": "1da9"
+    },
+    {
+      "name": "React.js from scratch",
+      "duration": 9,
+      "difficulty": "intermediate",
+      "id": "2b57"
+    },
+    {
+      "name": "Angular.js from scratch",
+      "duration": 8,
+      "difficulty": "intermediate",
+      "id": "188a"
+    }
+  ]
+}
